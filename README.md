@@ -3,4 +3,4 @@ This plugin extends the Issues in Epic panel of Jira and show the Priority icon 
 
 ![Screenshot](screenshot2.png)
 
-[Download Extended Issues in Epic panel for Jira by MrAddon](https://github.com/MrAddon/Extended-Issues-in-Epic-panel-for-Jira/releases/tag/extended-epic-panel-jira-1.0.1.jar)
+[Download Extended Issues in Epic panel for Jira by MrAddon](https://github.com/MrAddon/Extended-Issues-in-Epic-panel-for-Jira/releases)
