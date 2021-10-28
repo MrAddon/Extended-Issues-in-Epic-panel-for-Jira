@@ -7,7 +7,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>mraddon</groupId>
     <artifactId>extended-epic-panel-jira</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
 
     <organization>
         <name>MrAddon</name>
@@ -15,7 +15,7 @@
     </organization>
 
     <name>Extended Epic Panel for Jira</name>
-    <description>With this plugin you can extend the columns of the usual issues in Epic panel in the issue view</description>
+    <description>With this plugin you can extend the columns of the usual issues in Epic panel in the issue view: Show Priority Icon, Due Date and colorized if overdue (Compatible with "New Status Colors PRO" plugin)</description>
     <packaging>atlassian-plugin</packaging>
 
     <dependencies>
